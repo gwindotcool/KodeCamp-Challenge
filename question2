@@ -1,0 +1,23 @@
+
+2. JavaScript Data Types: Notes and Methods
+a. String Data Type
+Strings are used to represent and manipulate a sequence of characters. They are written inside single quotes ('), double quotes ("), or backticks (`).
+
+3 Common Methods:
+
+    .toUpperCase(): Converts the entire string to uppercase letters.
+
+    .includes(substring): Checks if a string contains a specific sequence of characters, returning true or false.
+
+    .slice(start, end): Extracts a section of a string and returns it as a new string without modifying the original.
+
+    b. Number Data Type
+The Number data type represents both integer and floating-point values (decimals). Unlike some other languages, JavaScript doesn't have separate types for integers and doubles.
+
+3 Common Methods:
+
+    .toFixed(n): Formats a number with exactly n digits after the decimal point (returns a string).
+
+.toString(): Converts a number into a string.
+
+Number.isInteger(value): A static method that determines whether the passed value is an integer.
