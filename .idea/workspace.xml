@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d0a3ce6f-6fe4-4581-b257-d95e42660497" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Task2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task3.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,18 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "gwindotcool"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;gwindotcool&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/gwindotcool/KodeCamp-Challenge.git",
-    "accountId": "d1d513fb-9fd3-4e5b-9f7a-b297aacc0bf3"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/gwindotcool/KodeCamp-Challenge.git&quot;,
+    &quot;accountId&quot;: &quot;d1d513fb-9fd3-4e5b-9f7a-b297aacc0bf3&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -83,7 +84,8 @@
       <updated>1778689071871</updated>
       <workItem from="1778689072878" duration="4550000" />
       <workItem from="1779424052312" duration="694000" />
-      <workItem from="1779617161922" duration="1930000" />
+      <workItem from="1779617161922" duration="2729000" />
+      <workItem from="1781279006095" duration="2424000" />
     </task>
     <servers />
   </component>
